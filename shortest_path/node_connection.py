@@ -1,4 +1,3 @@
-
 class NodeConnection():
     def __init__(self, base_node: str, end_node: str, value: int) -> None:
         self.base_node = base_node
